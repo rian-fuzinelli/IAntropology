@@ -35,4 +35,5 @@ To chat with other community members you can join the Next.js [Discord](https://
 Do note that our [Code of Conduct](https://github.com/vercel/next.js/blob/canary/CODE_OF_CONDUCT.md) applies to all Next.js community channels. Users are **highly encouraged** to read and adhere to them to avoid repercussions.
 
 ## IAntropology
-![image](https://github.com/user-attachments/assets/f7f285a9-e673-409c-9824-cdabe0530847)
+![image](https://github.com/user-attachments/assets/068865ed-b184-4ff8-bf5a-ccc127a24c30)
+
